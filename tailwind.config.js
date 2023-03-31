@@ -8,6 +8,7 @@ export default {
         beige: "#f5f4ef",
         charcoal: "#423a37",
         peach: "#c49683",
+        green: "#a2c2b6",
       },
       backgroundImage: (theme) => ({
         "mobile-home": "url('./assets/HomePageGraphic.png')",
